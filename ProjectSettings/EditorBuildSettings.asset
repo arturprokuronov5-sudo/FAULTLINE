@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Faultline/Scenes/Faultline_MineEntrance.unity
+    guid: 75ac387de0e49234e8ac9ed50367a3dd
+  - enabled: 1
+    path: Assets/Faultline/Scenes/Faultline_CollapsedTunnels.unity
+    guid: eff89bf62e7e9b04aa4153dee5e9362d
+  - enabled: 1
+    path: Assets/Faultline/Scenes/Faultline_AncientChamber.unity
+    guid: fce9dbf907c3e2046bd69ef2fce35ab4
+  - enabled: 1
+    path: Assets/Faultline/Scenes/Faultline_HeartOfRift.unity
+    guid: a0ace1f59e943f9408cd35ca20feca0c
+  - enabled: 1
+    path: Assets/Faultline/Scenes/Faultline_Battle.unity
+    guid: c6b5bcbc0f048654b89fd5feba727aef
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
